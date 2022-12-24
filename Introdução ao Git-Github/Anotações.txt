@@ -1,8 +1,11 @@
 Download do Git
 https://git-scm.com/
+*O Git Bash é um terminal extendido para otimizar o uso do Git
 
 Comandos básicos do git
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
 Download leitor de arquivo Markdown
 https://typora.io/
+*O typora é um programa utilizado para facilitar a edição de texto com suporte para Markdown. 
+Markdown é uma sintaxe de formatação de texto que facilita na conversão do conteúdo escrito para HTML.
