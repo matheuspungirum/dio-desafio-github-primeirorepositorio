@@ -1,0 +1,8 @@
+Download do Git
+https://git-scm.com/
+
+Comandos básicos do git
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+Download leitor de arquivo Markdown
+https://typora.io/
