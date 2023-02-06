@@ -1,4 +1,5 @@
 # Desafio de Projeto sobre Git/Github da DIO
+
   Repositório aplicando o projeto da DIO sobre Git/Github
 
   Existem mais comandos para o gitbash esses foram os comandos usados no curso.
@@ -58,4 +59,5 @@
 • git push origin main - Envia os arquivos do repositório local para o repositório no github
 
 ## Links úteis
+
 [Sintaxe Básica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
